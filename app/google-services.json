@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "802390967818",
+    "firebase_url": "https://mymaps-1544463802159.firebaseio.com",
+    "project_id": "mymaps-1544463802159",
+    "storage_bucket": "mymaps-1544463802159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802390967818:android:bd835ef28671bae4",
+        "android_client_info": {
+          "package_name": "com.hfad.mymaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802390967818-ohs6s6a0230782hob2lsiqm9lud1pkjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSxcoXaycpHi1EBfQlzVBqd0p_lKf0pUU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
